@@ -1,5 +1,5 @@
 '''
-@author: zxl
+@author: 
 '''
 import sys
 for i in sys.argv:

@@ -1,7 +1,7 @@
 #coding=utf-8
 '''
 中文
-@author: zxl
+@author:
 '''
 class Fibs:
     def fibs(self,num):

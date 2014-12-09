@@ -2,7 +2,7 @@
 '''
 Created on 2014年12月9日
 
-@author: zxl
+@author: 
 日志写入
 '''
 import logging

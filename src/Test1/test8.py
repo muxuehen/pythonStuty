@@ -1,5 +1,5 @@
 '''
-@author: zxl
+@author: 
 '''
 def say(msg,times):
     print msg * times

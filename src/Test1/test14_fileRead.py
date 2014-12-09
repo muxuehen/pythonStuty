@@ -2,7 +2,7 @@
 '''
 Created on 2014年12月9日
 
-@author: zxl
+@author: 
 读取文件测试
 '''
 import os

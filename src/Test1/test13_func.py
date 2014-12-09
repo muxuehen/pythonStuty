@@ -1,8 +1,7 @@
 #coding=utf-8
 '''
-Created on 2014��12��9��
 
-@author: zxl
+@author: 
 '''
 #mapʹ使用一
 print map(str, range(10))

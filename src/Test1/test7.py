@@ -1,5 +1,5 @@
 '''
-@author: zxl
+@author: 
 '''
 def hello(a):
     print 'hi ' + a

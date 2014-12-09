@@ -1,6 +1,6 @@
 '''
 
-@author: zxl
+@author: 
 '''
 class Person:
     pass #aa

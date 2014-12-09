@@ -1,6 +1,6 @@
 '''
 
-@author: zxl
+@author: 
 '''
 lists = ['4','3','5','1','2']
 print lists
