@@ -1,4 +1,6 @@
+#coding=utf-8
 '''
+中文
 @author: zxl
 '''
 class Fibs:
